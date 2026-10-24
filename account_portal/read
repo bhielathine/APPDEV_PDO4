@@ -1,2 +1,5 @@
 file used is under htdocs:
 xampp>htdocs>account_portal(main project file)
+
+run localhost/phpmyadmin and import 'schema.sql' from:
+C:\xampp\htdocs\account_portal\database
